@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TownsJ
+- 👀 I’m interested in JavaScript Development
+- 🌱 I’m currently learning Express API's and AWS Serverless
+- 📫 You can reach me at **mail@jacktowns.com**
